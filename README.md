@@ -23,6 +23,9 @@ The Go tool is wrapped in a lightweight bash script that can run the docker buil
 ### [Christmas Container](https://github.com/kyleboehlen/christmas-container)
 Docker enviroment with Python tools and boilerplate for [Advent of Code](https://adventofcode.com)
 
+### [krypto](https://github.com/kyleboehlen/krypto)
+Serverless *Go* API that *fetches* redirects and photography information
+
 
 ## Usage
 This should be enough to get you up and going:
