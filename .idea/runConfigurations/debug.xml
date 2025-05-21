@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="debug" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="friday" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <parameters value="$Prompt$" />
+    <kind value="PACKAGE" />
+    <package value="friday" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <output_directory value="$PROJECT_DIR$/debug" />
+    <method v="2" />
+  </configuration>
+</component>
