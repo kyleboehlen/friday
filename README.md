@@ -26,6 +26,11 @@ Docker enviroment with Python tools and boilerplate for [Advent of Code](https:/
 ### [krypto](https://github.com/kyleboehlen/krypto)
 Serverless *Go* API that *fetches* redirects and photography information
 
+### [Surveyor](https://github.com/kyleboehlen/surveyor)
+Front end for testing a large data model using the ansible experimental prototype backend
+
+### [ansible](https://github.com/kyleboehlen/ansible)
+Rx/SignalR real time state management backend
 
 ## Usage
 This should be enough to get you up and going:
